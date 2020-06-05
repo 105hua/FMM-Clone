@@ -8,5 +8,8 @@ Unfortunately, the original developer, Sanmatch, had a data loss and decided to 
 # Credits
 
 Sanmatch - Original Developer
+
 J0sh - Managing the repository
+
 Everyone who commits - Helping out with development
+
