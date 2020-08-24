@@ -5,6 +5,8 @@ Robot Fighting Online is an attempt to create a similar online game to Fight My 
 
 Unfortunately, the original developer, Sanmatch, had a data loss and decided to release the project because he felt that because he was on his own, it would take too long to develop. Fortunately, I was able to help out with making the project Open-Source.
 
+As of 24th August 2020, I have decided to archive this repository due to inactivity.
+
 # Credits
 
 Sanmatch - Original Developer
