@@ -1,4 +1,4 @@
-# Robot Fighting Online - An FMM Clone
+# Robot Fighting Online - A Fight My Monster Clone
 Fight My Monster was a strategic card game developed in 2009 by Dominic Williams. The game was eventually abandoned in 2016, when the games website was taken down without any warning, nor an indication.
 
 Robot Fighting Online is an attempt to create a similar online game to Fight My Monster. Some things will be the same, some will be different (mainly due to copyright).
